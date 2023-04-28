@@ -1,5 +1,3 @@
- - 
-
 <p align="center">
   <h1 align="center"><a href="https://yadvirkaur.netlify.app/">Hi, I'm Yadvir Kaur</a></h1>
   <p align="center"> Frontend Web Developer</p>
