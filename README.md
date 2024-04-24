@@ -10,7 +10,7 @@
 
 <br />
 
-💫 View my [Projects](https://yadvirkaur.netlify.app/#projects), [Resumé](https://yadvirkaur.netlify.app/images/YadvirKaurResume.pdf), [Contact Me](https://yadvirkaur.netlify.app/#contact).
+💫 View my [Projects](https://yadvirkaur.netlify.app/#projects), [Contact Me](https://yadvirkaur.netlify.app/#contact).
 
 📫 You can reach me at yadvirkaur15@gmail.com
 
